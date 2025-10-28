@@ -1,7 +1,7 @@
 # Hi 👋, I’m Barnabas
-I'm a freelance Fullstack Developer and self-taught Software Engineer with specific interests in Java, Javascript, PHP and their individual frameworks and libraries
+I'm a freelance Fullstack Developer and self-taught Software Engineer with specific interests in Laravel, Javascript, NextJs, PHP, NodeJs
 - 🌱 I’m currently learning any and every improvements in the web app developments and software engineering enviroments
-- 💞️ I’m looking to collaborate on web app and Java projects
+- 💞️ I’m looking to collaborate on Laravel and Javascript projects
 - 📫 How to reach me Ogborbarnabas@gmail.com
 
 <!---
