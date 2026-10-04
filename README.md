@@ -21,7 +21,7 @@ Legal marketplace connecting lawyers, law firms and clients. Includes job opport
 An e-commerce web application that allows customers to browse products, manage their carts, place orders, make payments, and manage deliveries, with an administrative system for managing products and orders.    
 [Live Application](https://www.joyspeakmart.com).
 
-💻 ElSoftWorks      
+💼 ElSoftWorks      
 A professional company website built to showcase ElSoftWorks' technology and digital solutions, communicate its services, and provide businesses with a clear online presence.   
 [Live Application](https://www.elsoftworks.com)
 
