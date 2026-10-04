@@ -14,7 +14,8 @@ Git ▪ Github ▪ Vite ▪ Composer
 
 ## FEATURED WORK
 ⚖ LawBridgeUp  
-Legal marketplace connecting lawyers, law firms and clients. Includes job opportunities, legal briefs, applications, interviews, profiles, notifications and administrative management.
+Legal marketplace connecting lawyers, law firms and clients. Includes job opportunities, legal briefs, applications, interviews, profiles, notifications and administrative management.    
+[Live Application](https://www.lawbridgeup.com)
 
 🛒 JoySpeakMart  
 An e-commerce web application that allows customers to browse products, manage their carts, place orders, make payments, and manage deliveries, with an administrative system for managing products and orders.    
