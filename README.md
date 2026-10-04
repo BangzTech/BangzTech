@@ -13,14 +13,16 @@ Javascript ▪ Livewire ▪ Alpine.js ▪ Tailwind CSS
 Git ▪ Github ▪ Vite ▪ Composer
 
 ## FEATURED WORK
-⚖ [LawBridgeUp](https://www.lawbridgeup.com).  
-Legal Marketplace
+⚖ LawBridgeUp  
+Legal marketplace connecting lawyers, law firms and clients. Includes job opportunities, legal briefs, applications, interviews, profiles, notifications and administrative management.
 
-🛒 [JoysPeakMart](https://www.joyspeakmart.com).  
-E-commerce Platform
+🛒 JoySpeakMart  
+An e-commerce web application that allows customers to browse products, manage their carts, place orders, make payments, and manage deliveries, with an administrative system for managing products and orders.    
+[Live Application](https://www.joyspeakmart.com).
 
-💻 [ElSoftWorks](https://elsoftworks.com).  
-Company Website 
+💻 ElSoftWorks      
+A professional company website built to showcase ElSoftWorks' technology and digital solutions, communicate its services, and provide businesses with a clear online presence.   
+[Live Application](https://www.elsoftworks.com)
 
 ## CONNECT WITH ME
 
