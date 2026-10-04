@@ -13,13 +13,13 @@ Javascript ▪ Livewire ▪ Alpine.js ▪ Tailwind CSS
 Git ▪ Github ▪ Vite ▪ Composer
 
 ## FEATURED WORK
-⚖ [LawBridgeUp](https://www.lawbridgeup.com)
+⚖ [LawBridgeUp](https://www.lawbridgeup.com).  
 Legal Marketplace
 
-🛒 [JoysPeakMart](https://www.joyspeakmart.com)
+🛒 [JoysPeakMart](https://www.joyspeakmart.com).  
 E-commerce Platform
 
-💻 [ElSoftWorks](https://elsoftworks.com)
+💻 [ElSoftWorks](https://elsoftworks.com).  
 Company Website 
 
 ## CONNECT WITH ME
