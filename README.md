@@ -1,6 +1,6 @@
 # Hi 👋, I’m Barnabas
 ### Laravel / PHP Full-Stack Developer
-I build web applications, marketplaces and business systems with Laravel and modern web technologies.
+I build web applications, marketplaces and business systems with Laravel and modern web technologies working across authentication, role-based systems, database architecture, APIs, payments, notifications, file management and deployment.
 
 ## TECHNOLOGIES
 Backend 
@@ -9,7 +9,7 @@ PHP ▪ Laravel ▪ MySQL
 Frontend
 Javascript ▪ Livewire ▪ Alpine.js ▪ Tailwind CSS
 
-TOOLS
+## TOOLS
 Git ▪ Github ▪ Vite ▪ Composer
 
 ## FEATURED WORK
@@ -19,13 +19,9 @@ Legal Marketplace
 🛒 [JoysPeakMart](https://www.joyspeakmart.com)
 E-commerce Platform
 
-## WHAT I WORK WITH
-Authentication
-Role & permission systems
-REST APIs
-Database Architecture
-Quesus & 
+## CONNECT WITH ME
 
+[Email](ogborbarnabas@gmail.com)
 
 
 <!---
