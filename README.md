@@ -24,7 +24,7 @@ Company Website
 
 ## CONNECT WITH ME
 
-[Email](ogborbarnabas@gmail.com)
+✉️ ogborbarnabas@gmail.com
 
 
 <!---
