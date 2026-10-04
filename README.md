@@ -1,16 +1,32 @@
 # Hi 👋, I’m Barnabas
 ### Laravel / PHP Full-Stack Developer
-I build web applications, marketplaces and business systems.
+I build web applications, marketplaces and business systems with Laravel and modern web technologies.
 
+## TECHNOLOGIES
+Backend 
+PHP ▪ Laravel ▪ MySQL
 
-PHP ▪ Laravel ▪ MySQL ▪ Javascript
-Livewire ▪ Alpine ▪ Tailwind
+Frontend
+Javascript ▪ Livewire ▪ Alpine.js ▪ Tailwind CSS
 
-## Featured Projects
+TOOLS
+Git ▪ Github ▪ Vite ▪ Composer
+
+## FEATURED WORK
 ⚖ [LawBridgeUp](https://www.lawbridgeup.com)
-🛒 [JoysPeakMart](https://www.joyspeakmart.com)
+Legal Marketplace
 
-## Tech Stack
+🛒 [JoysPeakMart](https://www.joyspeakmart.com)
+E-commerce Platform
+
+## WHAT I WORK WITH
+Authentication
+Role & permission systems
+REST APIs
+Database Architecture
+Quesus & 
+
+
 
 <!---
 BangzTech/BangzTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
